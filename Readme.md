@@ -6,6 +6,15 @@ Welcome to our interactive web platform! This platform offers three modes tailor
 
 To get started, follow the instructions below based on your desired mode:
 
+### General Mode
+
+Explore research and development resources with a built-in feedback mechanism.
+
+1. Click on the "General" mode option in the navigation menu.
+2. Use bot to find research topics or development resources.
+
+ ![Screenshot (593)](https://github.com/user-attachments/assets/0f07dcbb-eeb0-4fc0-b14d-86c1ace1f499)
+
 ### Individual Mode
 
 Perfect for individual users who want to work on their own projects or tasks.
@@ -14,13 +23,10 @@ Perfect for individual users who want to work on their own projects or tasks.
 2. Write your code in the provided text area.
 3. Click the "Run Code" button to run the code.
 4. View the output in the console below.
+   
+![Screenshot (594)](https://github.com/user-attachments/assets/cdd59712-3736-44d3-b74c-cfd8b2d20462)
 
-### General Mode
 
-Explore research and development resources with a built-in feedback mechanism.
-
-1. Click on the "General" mode option in the navigation menu.
-2. Use bot to find research topics or development resources.
 
 ### Team Mode
 
@@ -29,6 +35,8 @@ Collaborate with team members in real-time by sharing code and communicating sea
 1. Click on the "Team" mode option in the navigation menu.
 2. Generate a unique collaboration link to share with your team.
 3. Collaborate on code simultaneously and communicate using the chatbox.
+   ![Screenshot (595)](https://github.com/user-attachments/assets/c0e32978-20ee-4050-aec7-9941fb80812a)
+
 
 ## Features
 
